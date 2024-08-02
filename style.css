@@ -106,6 +106,9 @@ ul li span:hover {
   button {
     padding: 1rem 1.25rem;
   }
+  .row{
+    padding-left: 1px;
+  }
 }
 @media (max-width: 344px) {
   button {
